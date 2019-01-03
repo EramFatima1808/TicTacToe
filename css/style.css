@@ -1,0 +1,25 @@
+body{
+    background-image: linear-gradient(to right,violet,blue);
+}
+.center{
+    align-content: center;
+    text-align: center;
+}
+.right{
+    text-align: right;
+    margin-left:62%;
+}
+.left{
+    text-align: left;
+    margin-left: 12%;
+}
+.cell{
+    width: 75px;
+    height: 75px;
+    background: darkgoldenrod;
+}
+.reset{
+    height: 40px!important;
+    width: 130px!important;
+    background: seagreen!important;
+}
