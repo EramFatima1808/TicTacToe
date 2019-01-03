@@ -16,7 +16,7 @@ body{
 .cell{
     width: 75px;
     height: 75px;
-    background: darkgoldenrod;
+    background: darkslategrey;
 }
 .reset{
     height: 40px!important;
